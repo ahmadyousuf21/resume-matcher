@@ -53,7 +53,32 @@ Sample files (`sample_resume.txt` and `sample_job.txt`) are included so you can 
 ## Tech Stack
 - Python 3
 - Anthropic API (Claude)
+  
+## Example Output
 
+Running the script with `sample_resume.txt` and `sample_job.txt` produces output like this:
+
+### Match Score: 42/100
+
+**Missing Keywords & Skills:**
+- Google Analytics
+- Canva
+- Social media management tools (Hootsuite, Buffer, etc.)
+- Email marketing platforms (Mailchimp, Constant Contact)
+- SEO
+- Paid advertising (Google Ads, Meta Ads)
+- Content calendar
+- Market research
+
+**Sample Suggestion:**
+
+Original bullet point:
+> Created social media content for client campaigns
+
+Revised:
+> Developed and scheduled social media content across Instagram and Facebook for 3+ client campaigns, supporting a consistent content calendar
+
+The tool provides a full breakdown including a tailored summary rewrite, transferable skills framing, and a prioritized action list for resume improvements.
 ## Future Improvements
 - Support PDF/Word resume uploads
 - Web interface using Streamlit or Flask
