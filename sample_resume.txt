@@ -1,0 +1,21 @@
+John Doe
+Email: john.doe@email.com | Phone: (555) 123-4567
+
+SUMMARY
+Recent college graduate with a degree in Business Administration. Strong communication and organizational skills, with experience in customer service and basic data analysis using Excel.
+
+EDUCATION
+B.A. in Business Administration, State University, 2025
+
+EXPERIENCE
+Customer Service Representative - RetailCo (2023-2025)
+- Assisted customers with orders and resolved complaints
+- Maintained accurate records in company database
+- Trained 3 new employees on customer service procedures
+
+Intern - Local Marketing Agency (Summer 2024)
+- Created social media content for client campaigns
+- Compiled weekly performance reports using Excel
+
+SKILLS
+Microsoft Excel, Microsoft Word, Communication, Customer Service, Time Management
